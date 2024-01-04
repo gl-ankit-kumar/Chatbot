@@ -19,6 +19,10 @@ This project explores the development of an interactive chatbot trained on the c
 
 ## How this Chatbot Works:
 
+<div align="center">
+  <img src="https://github.com/gl-ankit-kumar/Chatbot/blob/main/Workflow.png" alt="Work Flow">
+</div>
+
 ### 1. Conversation Initiation:
 The chatbot begins by warmly greeting the user and asking for their name(Node 1).
 Once the user enters their name, the chatbot introduces itself as their personal assistant and invites them to ask questions (Node 2).
