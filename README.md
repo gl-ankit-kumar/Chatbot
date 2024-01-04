@@ -11,11 +11,11 @@ This project explores the development of an interactive chatbot trained on the c
 
 ## Key Features:
 
-# Interactive: Engage in conversations with the chatbot, asking questions about machine learning concepts covered in the book or exploring broader topics.
-# OpenAI Integration: If the chatbot doesn't find an answer within its knowledge base, it seamlessly connects with OpenAI for more comprehensive and interactive responses.
-# Step-by-step Training Guide: Detailed explanation of the training process, including data pre-processing, model selection, and evaluation.
-# Code Provided: Access to the complete Python code used to train the chatbot and integrate with OpenAI, facilitating your understanding and customization.
-# Open-source: Feel free to fork and adapt the code for your own purposes.
+- Interactive: Engage in conversations with the chatbot, asking questions about machine learning concepts covered in the book or exploring broader topics.
+- OpenAI Integration: If the chatbot doesn't find an answer within its knowledge base, it seamlessly connects with OpenAI for more comprehensive and interactive responses.
+- Step-by-step Training Guide: Detailed explanation of the training process, including data pre-processing, model selection, and evaluation.
+- Code Provided: Access to the complete Python code used to train the chatbot and integrate with OpenAI, facilitating your understanding and customization.
+- Open-source: Feel free to fork and adapt the code for your own purposes.
 
 ## How this Chatbot Works:
 
